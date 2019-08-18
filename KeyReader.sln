@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KeyReader", "KeyReader\KeyReader.vbproj", "{26346A57-7C0D-4D0B-957A-82FD28E8CB2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26346A57-7C0D-4D0B-957A-82FD28E8CB2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26346A57-7C0D-4D0B-957A-82FD28E8CB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26346A57-7C0D-4D0B-957A-82FD28E8CB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26346A57-7C0D-4D0B-957A-82FD28E8CB2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41E6D4F5-CC4C-4DF9-A24E-9BF3166EF657}
+	EndGlobalSection
+EndGlobal
