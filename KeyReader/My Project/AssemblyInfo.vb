@@ -11,10 +11,10 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("KeyReader")>
 <Assembly: AssemblyDescription("Key Reader and Decryptor")>
-<Assembly: AssemblyCompany("nulware")>
+<Assembly: AssemblyCompany("ShimmyMySherbet")>
 <Assembly: AssemblyProduct("KeyReader")>
-<Assembly: AssemblyCopyright("Copyright nulware©  2019")>
-<Assembly: AssemblyTrademark("Shimmware")>
+<Assembly: AssemblyCopyright("Copyright ShimmyMySherbet©  2019")>
+<Assembly: AssemblyTrademark("ShimmyMySherbet")>
 
 <Assembly: ComVisible(False)>
 

@@ -29,3 +29,7 @@ Type in the password, and if it is correct, it will take you to this screen.
 Here you have the following options:
 * Reveal Key: Clicking this will show the key/password in plain text, double clicking again will hide the key.
 * Copy to Clipboard: Copies the plain-text key/password to the clipboard without showing it on screen.
+
+
+# Download
+Download via <a href="https://github.com/ShimmyMySherbet/KeyReader/releases">Releases</a>
